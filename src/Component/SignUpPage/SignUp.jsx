@@ -105,7 +105,7 @@ function SignUp() {
             Sign Up
           </button>
 
-            <Link to="/login">
+            <Link to="/">
                 <p className="text-center text-gray-200">
                     Already have an account?{" "}
                     <span className="font-semibold cursor-pointer hover:text-white">
